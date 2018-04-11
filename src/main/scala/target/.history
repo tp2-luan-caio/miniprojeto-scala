@@ -1,0 +1,6 @@
+compile
+compile Main.scala
+compile /Main.scala
+run Main.scala
+compile Main.scala
+compile
