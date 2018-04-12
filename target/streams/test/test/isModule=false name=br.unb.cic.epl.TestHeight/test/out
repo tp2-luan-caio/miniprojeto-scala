@@ -1,0 +1,5 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mTestHeight:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAn Height expression[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return 1 when we call literal100.height()[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return 2 when we call call Add(Literal(100), Literal(200)).height()[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return 3 when we call call Sub(Literal(100), Mul(Literal(200), Literal(100))).height()[0m[0m

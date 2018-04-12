@@ -1,0 +1,4 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mTestExp:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAn expression[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return String (100 + 200) * 100 when we call MulEval.Mul(add, literal100).print()[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return 10000 when we call call MulEval.Mul(sub, literal100).eval()[0m[0m

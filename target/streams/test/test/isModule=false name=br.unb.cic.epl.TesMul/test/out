@@ -1,0 +1,4 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mTesMul:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mA Mul expression[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return String (100 * 200) when we call Mul(Literal(100), Literal(200).print())[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return 20000 when we call call Mul(Literal(100), Literal(200)).eval()[0m[0m

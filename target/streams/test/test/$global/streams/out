@@ -1,0 +1,18 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(br.unb.cic.epl.TestLiteral, org.scalatest.tools.Framework$$anon$1@58dbd3c0, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(br.unb.cic.epl.TestAdd, org.scalatest.tools.Framework$$anon$1@58dbd3c0, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(br.unb.cic.epl.TestHeight, org.scalatest.tools.Framework$$anon$1@58dbd3c0, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(br.unb.cic.epl.TestSub, org.scalatest.tools.Framework$$anon$1@58dbd3c0, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(br.unb.cic.epl.TestExp, org.scalatest.tools.Framework$$anon$1@58dbd3c0, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(br.unb.cic.epl.TesMul, org.scalatest.tools.Framework$$anon$1@58dbd3c0, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 261 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 13[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 6, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 13, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	br.unb.cic.epl.TestAdd[0m
+[0m[[0m[0mdebug[0m] [0m[0m	br.unb.cic.epl.TestSub[0m
+[0m[[0m[0mdebug[0m] [0m[0m	br.unb.cic.epl.TestLiteral[0m
+[0m[[0m[0mdebug[0m] [0m[0m	br.unb.cic.epl.TesMul[0m
+[0m[[0m[0mdebug[0m] [0m[0m	br.unb.cic.epl.TestHeight[0m
+[0m[[0m[0mdebug[0m] [0m[0m	br.unb.cic.epl.TestExp[0m

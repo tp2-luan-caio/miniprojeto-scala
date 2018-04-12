@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/caio/TP2/miniprojeto-scala/src/test/scala/br/unb/cic/epl/TestExp.scala:29:31: not found: value litera200[0m
+[0m[[0m[31merror[0m] [0m[0m    val sub = new SubEval.Sub(litera200, literal100)[0m
+[0m[[0m[31merror[0m] [0m[0m                              ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

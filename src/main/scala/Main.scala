@@ -21,4 +21,6 @@ object Main extends App {
   println(sumEval.print() + " = " + sumEval.eval())
   println(difEval.print() + " = " + difEval.eval())
   println(prodEval.print() + " = " + prodEval.eval())
+
+  println(1.max(2) + 1) 
 }
